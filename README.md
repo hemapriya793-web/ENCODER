@@ -51,7 +51,7 @@ Logical circuit of the above expressions is given below:
 [ex 05 dia.pdf](https://github.com/user-attachments/files/24148188/ex.05.dia.pdf)
 
 waveform:
-<img width="1635" height="923" alt="EX 05 wave" src="https://github.com/user-attachments/assets/df753d66-4726-4625-8130-06c8e82a6c03" />
+[unknown.bmp](https://github.com/user-attachments/files/24165315/unknown.bmp)
 
 NAME : HEMA PRIYA
 
